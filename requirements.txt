@@ -1,8 +1,8 @@
-antlr4-python3-runtime==4.9.2
+antlr4-python3-runtime==4.13.1
 python-dateutil==2.8.2
 six==1.16.0
 urllib3==1.26.6
-awslambdaric==1.2.2
+awslambdaric==2.0.7
 setuptools~=65.6.3
-boto3~=1.20.47
-jsonschema==4.1.2
+boto3~=1.28.62
+jsonschema==4.17.3

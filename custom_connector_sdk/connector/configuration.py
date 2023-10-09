@@ -56,7 +56,7 @@ class TriggerFrequency(Enum):
     MONTHLY = auto()
     ONCE = auto()
 
-class TriggerType(Enum):
+class (Enum):
     """Enum for flow trigger type."""
     SCHEDULED = auto()
     ONDEMAND = auto()
