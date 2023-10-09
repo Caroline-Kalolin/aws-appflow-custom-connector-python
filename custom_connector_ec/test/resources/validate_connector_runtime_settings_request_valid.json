@@ -1,7 +1,0 @@
-{
-  "type": "ValidateConnectorRuntimeSettingsRequest",
-  "scope": "DESTINATION",
-  "connectorRuntimeSettings": {
-    "instanceUrl": "https://salesforce.amazon.com"
-  }
-}
